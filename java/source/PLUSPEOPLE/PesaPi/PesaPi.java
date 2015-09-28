@@ -157,7 +157,7 @@ public class PesaPi{
 		 */
 		public void forceSyncronisation() {
 				// not done
-				System.out.println("Syncromizing\n");
+				System.out.println("Syncronizing\n");
 		}
 
 		public int getErrorCode() {
